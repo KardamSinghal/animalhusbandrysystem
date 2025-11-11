@@ -1,3 +1,3 @@
 # animalhusbandrysystem
 
-runniing the application: streamlit run animal_husbandry_system.py
+running the application: streamlit run animal_husbandry_system.py
